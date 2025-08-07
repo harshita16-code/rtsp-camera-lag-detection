@@ -33,7 +33,7 @@ This system was developed as part of my internship at Tata Steel to monitor live
 
 ## 📈 Dashboard Preview
 
-![Dashboard](snapshots/dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ## 🛠️ Installation
 
